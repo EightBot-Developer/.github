@@ -17,4 +17,4 @@ EightBot-Developer は EightBot を開発しているチームです。
 [公式ウェブサイト](https://eightbot-developer.github.io/Website/)
 
 ## EightBot-Developers ロゴ
-
+<img src="eightdev2.png" oncontextmenu="alert('画像保存しないでね！'); return false;">
